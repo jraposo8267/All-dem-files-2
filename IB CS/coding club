@@ -1,0 +1,9 @@
+import java.io.*;
+import java.util.*;
+
+public class main {
+
+	public static void scanner in = new Scanner (System.in);
+	public static String target  
+	
+	(string [] args) 
